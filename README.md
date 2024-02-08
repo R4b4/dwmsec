@@ -1,0 +1,1 @@
+ A configuração do ambiente de trabalho com dwm, st e dmenu, junto com uma barra de status slstatus e uma alternativa de lançador de aplicativos rofi, proporciona uma experiência de usuário otimizada e eficiente. 
